@@ -1,0 +1,54 @@
+# Proba
+<html>
+    <h1>Расписание</h1>
+    <table style="border:3px solid lightblue">
+        <tr>
+            <td style="border:1px solid black">  </td>
+            <td style="border:1px solid black">5 "а"</td>
+            <td style="border:1px solid black">5 "б"</td>
+            <td style="border:1px solid black">6 "а"</td>
+            <td style="border:1px solid black">6 "б"</td>
+        </tr>
+            <td style="border:1px solid black">1 урок</td>
+            <td style="border:1px solid blue">математика</td>
+            <td style="border:1px solid blue">литература</td>
+            <td style="border:1px solid blue">биология</td>
+            <td style="border:1px solid blue">география</td>
+        <tr>
+            <td style="border:1px solid black">2 урок</td>
+            <td style="border:1px solid blue">русский язык</td>
+            <td style="border:1px solid blue">математика</td>
+            <td style="border:1px solid blue">информатика</td>
+            <td style="border:1px solid blue">литература</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid black">3 урок</td>
+            <td style="border:1px solid blue">география</td>
+            <td style="border:1px solid blue">русский</td>
+            <td style="border:1px solid blue">математика</td>
+            <td style="border:1px solid blue">информатика</td>
+        </tr>
+        
+        <tr>
+            <td style="border:1px solid black">4 урок</td>
+            <td style="border:1px solid blue">биология</td>
+            <td style="border:1px solid blue">информатика</td>
+            <td style="border:1px solid blue">русский</td>
+            <td style="border:1px solid blue">история</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid black">5 урок</td>
+            <td style="border:1px solid blue">физ-ра</td>
+            <td style="border:1px solid blue">история</td>
+            <td style="border:1px solid blue">физ-ра</td>
+            <td style="border:1px solid blue">математика</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid black">6 урок</td>
+            <td style="border:1px solid blue">история</td>
+            <td style="border:1px solid blue">-</td>
+            <td style="border:1px solid blue">-</td>
+            <td style="border:1px solid blue">физ-ра</td>
+        </tr>
+        </table>
+</html>
